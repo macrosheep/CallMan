@@ -1,2 +1,5 @@
 /.settings/*
 /assets/.assets.index
+/arm/*
+/translations/CallMan.qm
+/translations/CallMan_zh_CN.qm
